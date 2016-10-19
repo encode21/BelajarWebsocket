@@ -1,0 +1,15 @@
+{
+  "name": "belajar_websocket_1",
+  "version": "1.0.0",
+  "description": "Belajar Websocket dengan express, jade",
+  "main": "main.js",
+  "scripts": {
+    "test": "main"
+  },
+  "keywords": [
+    "belajar",
+    "websocket"
+  ],
+  "author": "Sony Surahman",
+  "license": "MIT"
+}
